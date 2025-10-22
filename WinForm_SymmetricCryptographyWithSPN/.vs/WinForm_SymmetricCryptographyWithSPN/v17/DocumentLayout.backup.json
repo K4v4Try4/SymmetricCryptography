@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cavel\\Desktop\\SymmetricCryptography\\WinForm_SymmetricCryptographyWithSPN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{305EE383-13E7-40E5-A837-02ED2CEAF9DD}|WinForm_SymmetricCryptographyWithSPN\\WinForm_SymmetricCryptographyWithSPN.csproj|c:\\users\\cavel\\desktop\\symmetriccryptography\\winform_symmetriccryptographywithspn\\winform_symmetriccryptographywithspn\\wf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305EE383-13E7-40E5-A837-02ED2CEAF9DD}|WinForm_SymmetricCryptographyWithSPN\\WinForm_SymmetricCryptographyWithSPN.csproj|solutionrelative:winform_symmetriccryptographywithspn\\wf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305EE383-13E7-40E5-A837-02ED2CEAF9DD}|WinForm_SymmetricCryptographyWithSPN\\WinForm_SymmetricCryptographyWithSPN.csproj|c:\\users\\cavel\\desktop\\symmetriccryptography\\winform_symmetriccryptographywithspn\\winform_symmetriccryptographywithspn\\wf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305EE383-13E7-40E5-A837-02ED2CEAF9DD}|WinForm_SymmetricCryptographyWithSPN\\WinForm_SymmetricCryptographyWithSPN.csproj|solutionrelative:winform_symmetriccryptographywithspn\\wf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WF.cs",
+              "DocumentMoniker": "C:\\Users\\cavel\\Desktop\\SymmetricCryptography\\WinForm_SymmetricCryptographyWithSPN\\WinForm_SymmetricCryptographyWithSPN\\WF.cs",
+              "RelativeDocumentMoniker": "WinForm_SymmetricCryptographyWithSPN\\WF.cs",
+              "ToolTip": "C:\\Users\\cavel\\Desktop\\SymmetricCryptography\\WinForm_SymmetricCryptographyWithSPN\\WinForm_SymmetricCryptographyWithSPN\\WF.cs",
+              "RelativeToolTip": "WinForm_SymmetricCryptographyWithSPN\\WF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T06:36:00.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WF.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\cavel\\Desktop\\SymmetricCryptography\\WinForm_SymmetricCryptographyWithSPN\\WinForm_SymmetricCryptographyWithSPN\\WF.cs",
+              "RelativeDocumentMoniker": "WinForm_SymmetricCryptographyWithSPN\\WF.cs",
+              "ToolTip": "C:\\Users\\cavel\\Desktop\\SymmetricCryptography\\WinForm_SymmetricCryptographyWithSPN\\WinForm_SymmetricCryptographyWithSPN\\WF.cs [Progettazione]",
+              "RelativeToolTip": "WinForm_SymmetricCryptographyWithSPN\\WF.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T06:46:17.343Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

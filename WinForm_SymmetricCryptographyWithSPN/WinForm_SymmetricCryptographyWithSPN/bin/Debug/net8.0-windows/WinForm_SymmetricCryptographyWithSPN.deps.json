@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinForm_SymmetricCryptographyWithSPN/1.0.0": {
+        "dependencies": {
+          "CustomControls": "1.0.0",
+          "Library": "1.0.0"
+        },
+        "runtime": {
+          "WinForm_SymmetricCryptographyWithSPN.dll": {}
+        }
+      },
+      "CustomControls/1.0.0": {
+        "runtime": {
+          "CustomControls.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Library/1.0.0": {
+        "runtime": {
+          "Library.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinForm_SymmetricCryptographyWithSPN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomControls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

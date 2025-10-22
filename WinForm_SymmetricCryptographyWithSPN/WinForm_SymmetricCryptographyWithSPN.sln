@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm_SymmetricCryptographyWithSPN", "WinForm_SymmetricCryptographyWithSPN\WinForm_SymmetricCryptographyWithSPN.csproj", "{305EE383-13E7-40E5-A837-02ED2CEAF9DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{87BAF85E-C696-4450-B1F9-9ABF72186B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls", "CustomControls\CustomControls.csproj", "{3242A892-42EC-487A-B989-C07AE6C176EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{305EE383-13E7-40E5-A837-02ED2CEAF9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305EE383-13E7-40E5-A837-02ED2CEAF9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305EE383-13E7-40E5-A837-02ED2CEAF9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305EE383-13E7-40E5-A837-02ED2CEAF9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87BAF85E-C696-4450-B1F9-9ABF72186B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BAF85E-C696-4450-B1F9-9ABF72186B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BAF85E-C696-4450-B1F9-9ABF72186B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BAF85E-C696-4450-B1F9-9ABF72186B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3242A892-42EC-487A-B989-C07AE6C176EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3242A892-42EC-487A-B989-C07AE6C176EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3242A892-42EC-487A-B989-C07AE6C176EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3242A892-42EC-487A-B989-C07AE6C176EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88863068-A9A3-4ED2-BF8E-E830EF77BD40}
+	EndGlobalSection
+EndGlobal
